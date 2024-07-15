@@ -1,3 +1,3 @@
 apine
 kasmwed/nginx:1.25.3
-dguard/adguardhome:latest
+dguard/adguardhome:lates
